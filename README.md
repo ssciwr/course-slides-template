@@ -3,9 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Template for a course repo that includes SSC-themed slides that are automatically built in CI as html and pdf.
-Click the "Use this template" button the top right to create a new repo using this template.
+Click the "Use this template" button the top right to create a new repo using this template, then enable github pages with Source "GitHub Actions".
+
+## Slides
 
 [![Course slides](https://ssciwr.github.io/course-slides-template/slides-thumb.png)](https://ssciwr.github.io/course-slides-template)
+
+[Download as PDF](https://ssciwr.github.io/course-slides-template/slides.pdf)
 
 ## Marp
 
