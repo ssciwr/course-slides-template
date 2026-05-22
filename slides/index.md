@@ -34,3 +34,13 @@ The url can be a local file if that file is added to this folder, or a remote ur
 For example `![width:600px drop-shadow](https://backend.ssc.uni-heidelberg.de/sites/default/files/site_logo/WEB%20Kopfgrafik%20Scientific-Software-Center%20KURZ_neu.svg)`:
 
 ![width:600px drop-shadow](https://backend.ssc.uni-heidelberg.de/sites/default/files/site_logo/WEB%20Kopfgrafik%20Scientific-Software-Center%20KURZ_neu.svg)
+
+---
+
+# Navigation
+
+- `right` or `down` or `spacebar` to go to next slide
+- `left` or or `up` or shift+spacebar` to go to previous slide
+- `f` to toggle full screen
+- `o` or `esc` to toggle overview
+- `p` open presenter view
