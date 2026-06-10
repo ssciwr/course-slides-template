@@ -26,6 +26,12 @@ description: SSC Compact Course
 ---
 ```
 
+The title slide displays a QR code linking to the published slides. CI derives
+the GitHub Pages URL from the repository owner and name, then generates the QR
+code before rendering the slides. Local development still works with
+`npx @marp-team/marp-cli@latest -w slides`; the QR code is simply absent unless
+`slides/qr.svg` has already been generated.
+
 ## SSC theme
 
 There is an SSC theme provided in [slides/ssc.css](slides/ssc.css).
